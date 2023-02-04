@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.Contenedor{
+    width: 50% !important;
+    height: 100% !important;
+    margin: 100px auto !important;
+}
+input{
+    width: 50%;
+    text-align: center;
+}
+label{
+    font-size: 15px;
+}
